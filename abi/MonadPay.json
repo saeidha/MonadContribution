@@ -1,0 +1,22 @@
+[
+  {
+    "type": "function",
+    "name": "message",
+    "inputs": [],
+    "outputs": [
+      {
+        "name": "",
+        "type": "string",
+        "internalType": "string"
+      }
+    ],
+    "stateMutability": "view"
+  },
+  {
+    "type": "function",
+    "name": "pay",
+    "inputs": [],
+    "outputs": [],
+    "stateMutability": "payable"
+  }
+]

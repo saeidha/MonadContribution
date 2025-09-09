@@ -1,0 +1,1 @@
+forge inspect MonadPay bytecode > out/MonadPay.bytecode

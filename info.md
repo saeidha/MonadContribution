@@ -1,0 +1,40 @@
+
+MonadPay:
+monad-testnet: 0x7af1e8b27974237ff2da90ea3237b4aebc1a8c7d
+base-sepolia: 0xa63b260a433109558ba975d29e9981931429c4eb
+
+DepMonad:
+monad-testnet: 0x77fdbc09552e0508caf8f74ece64539d9a8c33bd
+base-sepolia: 0x397861777d32745261f91d0a465f9e7cf09654fb
+
+PaymeMonad:
+monad-testnet: 0x4cbcb3da62f2cbcb06d9e52c732d1c60408a15d7
+base-sepolia: 0xe504c068eef9af0ee1c135c7a7bf92b023520b50
+
+MonadAddBalance:
+monad-testnet: 0x603625566e2279e5461a4b0e8ca751a6aa7fb325
+base-sepolia: 0x9aac45f407677cf84417fc14d407618f1eb87ba8
+
+MonadNote:
+monad-testnet: 0xfb3d2a8cc457e7b852c4982fb315f721d746c8ec
+base-sepolia: 0xf55fe7302318ddb2c6cc88cd0f36209b14f30476
+
+MonadSave:
+monad-testnet: 0x46402074e3782bd6165a63d3169d4bf437e544ab
+base-sepolia: 0xab3134bca948a77e4fc524351cb98b066894a641
+
+PayEventMonad:
+monad-testnet: 0xf8320be87e1e1b17e4e1505c8b5417fa4463be45
+base-sepolia: 0x18d1b0c408008e00dfa10921ee32de75415e38d0
+
+MonadPayTrack:
+monad-testnet: 0xb47a7bbc55a34e214089884cbb8acef8c53cb404
+base-sepolia: 0xa42d68add361ad9fc38587a964903dd00cc976a0
+
+PayCountMonad:
+monad-testnet: 0xbb7c63dd98e75feee6060c4c59df28e5872afdae
+base-sepolia: 0x056b0b0a1886f073e52805af69e393e5f56e1e56
+
+MonadContribute:
+monad-testnet: 0x319c3ccd7dc8f89100d6f286d45d158be83d50ed
+base-sepolia: 0x1778b57367be68549cb6d64e475dc1699cc1fc4f
